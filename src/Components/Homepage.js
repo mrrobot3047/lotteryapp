@@ -34,7 +34,7 @@ const Homepage = () => {
   }, [isSpinning]);
 
   useEffect(() => {
-    if (numbers[0] === 3 || numbers[2] === 3) {
+    if (numbers[0] === 3 || numbers[4]===3) {
       setIsRed(true);
       setTimeout(() => {
         setIsRed(false);
