@@ -72,6 +72,7 @@ const Homepage = () => {
           sx={{
             ...styles.firstprize,
             color: isRed ? 'red' : 'white',
+            transition: 'color 2s ease',
           }}
         >
           <span style={{ fontSize: '64px' }}>1</span>ST{' '}
