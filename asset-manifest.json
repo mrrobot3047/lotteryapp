@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lotteryapp/static/css/main.56c48f9a.css",
-    "main.js": "/lotteryapp/static/js/main.adc98b86.js",
+    "main.js": "/lotteryapp/static/js/main.3a11d60d.js",
     "static/js/787.ed1f346b.chunk.js": "/lotteryapp/static/js/787.ed1f346b.chunk.js",
     "static/media/Group 1526.png": "/lotteryapp/static/media/Group 1526.4e4ba79be335fd442752.png",
     "static/media/Group 1503.png": "/lotteryapp/static/media/Group 1503.4302ced341af47dcc2cf.png",
@@ -12,11 +12,11 @@
     "static/media/btn-1.png": "/lotteryapp/static/media/btn-1.b27863e791a180849075.png",
     "index.html": "/lotteryapp/index.html",
     "main.56c48f9a.css.map": "/lotteryapp/static/css/main.56c48f9a.css.map",
-    "main.adc98b86.js.map": "/lotteryapp/static/js/main.adc98b86.js.map",
+    "main.3a11d60d.js.map": "/lotteryapp/static/js/main.3a11d60d.js.map",
     "787.ed1f346b.chunk.js.map": "/lotteryapp/static/js/787.ed1f346b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56c48f9a.css",
-    "static/js/main.adc98b86.js"
+    "static/js/main.3a11d60d.js"
   ]
 }
